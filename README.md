@@ -1,4 +1,4 @@
-# Reto PULPO
+# Reto 
 ---------------
 
 API para uso de cola de mensajes de Redis
